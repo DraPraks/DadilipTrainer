@@ -158,7 +158,10 @@ Contributions are welcome! Feel free to open issues or submit pull requests on G
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+### Creative Commons Attribution-NonCommercial 4.0 International License
+
+This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
 
 ---
 
