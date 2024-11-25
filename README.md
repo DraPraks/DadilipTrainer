@@ -1,7 +1,5 @@
 ### README.md
 
-```pip install DadilipTrainer```
-
 # ModelTrainer: A Python Library for Fine-Tuning Pre-Trained Models
 
 `ModelTrainer` is a Python library for fine-tuning pre-trained deep learning models (e.g., DenseNet121, ResNet50, VGG16, etc.) using TensorFlow. It simplifies the process of transfer learning, enabling users to customize regularization, dropout, and learning rate scheduling, with support for binary and multiclass classification tasks.
@@ -29,6 +27,10 @@
    ```bash
    pip install -r requirements.txt
    ```
+   
+### OR
+
+```pip install DadilipTrainer``` <== Is preferred
 
 ---
 
