@@ -1,0 +1,15 @@
+
+### **2.3 Include a `LICENSE` File**
+
+Choose a license for your package (e.g., MIT License) and include the text in a `LICENSE` file.
+
+---
+
+## **Step 3: Prepare the Package for Distribution**
+
+### **3.1 Install Required Tools**
+
+Ensure you have the latest versions of `setuptools` and `wheel`:
+
+```bash
+pip install --upgrade setuptools wheel
