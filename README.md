@@ -1,8 +1,8 @@
 ### README.md
 
-# ModelTrainer: A Python Library for Fine-Tuning Pre-Trained Models
+# DadilipTrainer: A Python Library for Fine-Tuning Pre-Trained Computer Vision Models
 
-`ModelTrainer` is a Python library for fine-tuning pre-trained deep learning models (e.g., DenseNet121, ResNet50, VGG16, etc.) using TensorFlow. It simplifies the process of transfer learning, enabling users to customize regularization, dropout, and learning rate scheduling, with support for binary and multiclass classification tasks.
+`DadilipTrainer` is a Python library for fine-tuning pre-trained compuetr vision deep learning models (e.g., DenseNet121, ResNet50, VGG16, etc.) using TensorFlow. It simplifies the process of transfer learning, enabling users to customize regularization, dropout, and learning rate scheduling, with support for binary and multiclass classification tasks.
 
 ---
 
@@ -20,7 +20,7 @@
 
 1. Clone the repository or copy the library files:
    ```bash
-   git clone https://github.com/yourusername/model_trainer.git
+   git clone https://github.com/DraPraks/DadilipTrainer.git
    ```
 
 2. Install the required dependencies:
