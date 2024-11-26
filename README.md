@@ -170,7 +170,3 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 
 - **Your Name**
 - [GitHub](https://github.com/drapraks)
 - [Email](mailto:prakosoadra@gmail.com)
-
----
-
-Let me know if you'd like further adjustments!
